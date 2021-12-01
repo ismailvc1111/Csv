@@ -67,7 +67,7 @@ System.out.println(archivo.getName() +" "+ compraf +" "+
 
 
 
-
+//https://www.banggood.com/es/Geek-Customized-SK61-61-Keys-Mechanical-Keyboard-NKRO-Gateron-Optical-Axis-Type-C-Wired-RGB-Backlight-White-Case-Gaming-Keyboard-p-1593028.html?utm_source=googleshopping&utm_medium=cpc_organic&gmcCountry=ES&utm_content=minha&utm_campaign=minha-es-es-pc&currency=EUR&cur_warehouse=ES&createTmp=1&utm_source=googleshopping&utm_medium=cpc_bgs&utm_content=dcr&utm_campaign=dcr-ssc-es-es-up1-0603&ad_id=525477009726&gclid=Cj0KCQiAtJeNBhCVARIsANJUJ2GX5Rq87pJgriYlGhWfP_4qSCGUYNJIPLSX0vhR8CYkoc5vofJ5ERYaAn2-EALw_wcB&ID=5156306157199
 }
 
 
